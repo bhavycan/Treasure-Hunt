@@ -7,7 +7,7 @@ I have coded and executed a C language program applying user-defined data types 
 
 ## Results
 
-## Player and game configuration + Bomg placement:
+## Player and game configuration + Bomb placement:
 ![image](https://user-images.githubusercontent.com/94931828/207791038-96c78d85-0e59-43d7-98c0-8ce36b879967.png)
 
 
